@@ -1,0 +1,7 @@
+| Component                       |                     Copyright                             |                   License                    |
+|:---------                       |:----------------------------------------------------------|:---------------------------------------------|
+| CMSIS                           | ARM Limited                                               | Apache License 2.0                           |
+| CMSIS Device                    | ARM Limited - STMicroelectronics                          | Apache License 2.0                           |
+| STM32L4 HAL                     | STMicroelectronics                                        | BSD-3-Clause                                 |
+| FreeRTOS kernel                 | Amazon.com, Inc. or its affiliates                        | MIT                                          |
+| STM32 Projects                  | STMicroelectronics                                        | SLA0044 (BSD-3-Clause for basic Examples)    |
